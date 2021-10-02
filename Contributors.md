@@ -15,3 +15,7 @@ Place: India <br/>
 Name: [Padmasri](https://github.com/sujata13) <br/>
 Place: India <br/>
 About: Web developer <br/>
+
+Name: [Mehul Minat](https://github.com/mehulminat) <br/>
+Place: India <br/>
+About: App Developer <br/>
